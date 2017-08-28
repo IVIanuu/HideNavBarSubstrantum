@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ThemeName">Ein theme eben</string>
+    <string name="ThemeAuthor">IVIanuu</string>
+    <string name="ThemeAuthorEmail">Kb was zu fixen;)</string>
+    <string name="ThemeReadyRequirement">all</string>
+    <string name="ThemeWallpaperSource">""</string>
+    <bool name="ThemeSupportLegacy">true</bool>
+    <bool name="ThemeSupportSamsung">false</bool>
+
+    <!-- Put your theme changelog here -->
+    <string-array name="ThemeChangelog">
+        <item>Nothing</item>
+    </string-array>
+</resources>
